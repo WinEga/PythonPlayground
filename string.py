@@ -5,6 +5,7 @@ print(len(message))
 s = message.split()
 print(s)
 print(s[0])
+print(s[1])
 
 
 
