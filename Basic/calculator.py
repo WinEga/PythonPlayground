@@ -11,9 +11,10 @@ def add(x, y):
 
 
 def subtract(x, y):
-    pass
+    return x-y
 
 
 print(div(22, 7))
 print(multiply(3, 2))
+print(subtract(22, 7))
 
