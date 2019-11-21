@@ -1,5 +1,6 @@
 def div(x, y):
-    pass
+
+    return x/y
 
 
 def multiply(x, y):
