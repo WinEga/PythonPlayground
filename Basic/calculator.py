@@ -3,7 +3,7 @@ def div(x, y):
 
 
 def multiply(x, y):
-    pass
+    return x*y
 
 
 def add(x, y):
@@ -15,4 +15,5 @@ def subtract(x, y):
 
 
 print(div(22, 7))
+print(multiply(3, 2))
 
