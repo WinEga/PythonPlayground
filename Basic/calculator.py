@@ -1,5 +1,4 @@
 def div(x, y):
-
     return x/y
 
 
@@ -15,5 +14,5 @@ def subtract(x, y):
     pass
 
 
-print(add(3.5, 4.4999))
+print(div(22, 7))
 
