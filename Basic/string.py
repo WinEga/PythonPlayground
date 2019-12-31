@@ -25,5 +25,6 @@ split = message.split()  # To split the message based on whitespace
 print(split)  # To print array of message from split
 print(split[0])  # To print the first string of the split message
 print(split[-1])  # To print the last string of the split message
-
-
+print(message.upper())
+print(message.lower())
+print(help(str.upper))
