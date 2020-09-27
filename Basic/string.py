@@ -28,3 +28,8 @@ print(split[-1])  # To print the last string of the split message
 print(message.upper())
 print(message.lower())
 print(help(str.upper))
+print(message.title())
+print(message.capitalize())
+print(message.istitle())
+print(message.find("welcome"))
+print(message.index("Welcome"))
